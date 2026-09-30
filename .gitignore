@@ -1,0 +1,19 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# IDE & Tool Metadata
+.vscode/
+.idea/
+.qodo/
+
+# Large GGUF Weights (downloaded separately)
+*.gguf
+*.bin
